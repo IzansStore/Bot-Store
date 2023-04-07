@@ -1,11 +1,11 @@
 const fs = require('fs')
 
-global.namabot = "ChinoBotz"
-global.namaowner = "YogzzDevX"
-global.footer_text = "© ChinoBotz" + namabot
+global.namabot = "ZaaBotz"
+global.namaowner = "Faza-Md"
+global.footer_text = "© ZaaBotz" + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['6285852129763','6285852129763']
+global.owner = ['6282298627146','6282298627146']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `*⫹⫺ PAYMENT:*
@@ -62,7 +62,7 @@ module.exports.helpMenu = (pushname) =>{
 ➻ *Sticker*
 
 📝 *Note*:
-_GAUSAH SPAM YA DIK_
+_GAUSAH SPAM YA DEK_
 _Kamu bisa ketik langsung tanpa harus memakai prefix,_
 _contoh: owner._
 
